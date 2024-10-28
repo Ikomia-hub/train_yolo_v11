@@ -189,7 +189,7 @@ class TrainYoloV11Factory(dataprocess.CTaskFactory):
         # relative path -> as displayed in Ikomia application process tree
         self.info.path = "Plugins/Python/Detection"
         self.info.version = "1.0.0"
-        self.info.icon_path = "icons/icon.png"
+        self.info.icon_path = "images/icon.png"
         self.info.authors = "Jocher, G., Chaurasia, A., & Qiu, J"
         self.info.article = "YOLO by Ultralytics"
         self.info.journal = ""
