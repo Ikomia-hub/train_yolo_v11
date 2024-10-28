@@ -66,7 +66,7 @@ Ikomia Studio offers a friendly UI with the same features as the API.
 - For additional guidance on getting started with Ikomia Studio, check out [this blog post](https://www.ikomia.ai/blog/how-to-get-started-with-ikomia-studio).
 
 ## :pencil: Set algorithm parameters
-- `model_name` (str) - default 'yolo11m': Name of the YOLOv8 pre-trained model. Other model available:
+- `model_name` (str) - default 'yolo11m': Name of the YOLO11 pre-trained model. Other model available:
     - yolo11n
     - yolo11s
     - yolo11l
