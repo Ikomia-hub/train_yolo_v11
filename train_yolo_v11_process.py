@@ -186,7 +186,7 @@ class TrainYoloV11Factory(dataprocess.CTaskFactory):
         self.info.short_description = "Train YOLOv11 object detection models."
         # relative path -> as displayed in Ikomia application process tree
         self.info.path = "Plugins/Python/Detection"
-        self.info.version = "1.1.0"
+        self.info.version = "1.1.1"
         self.info.min_ikomia_version = "0.15.0"
         self.info.icon_path = "images/icon.png"
         self.info.authors = "Jocher, G., Chaurasia, A., & Qiu, J"
